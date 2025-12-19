@@ -1,0 +1,5 @@
+{
+  "python.REPL.enableREPLSmartSend": false,
+  "python.terminal.activateEnvironment": true,
+  "python.defaultInterpreterPath": "/opt/miniconda3/envs/weather310/bin/python"
+}
